@@ -1,2 +1,2 @@
 # IOS-and-APP-Development
-IOS and app testing and Dev
+IOS, app testing and Dev
